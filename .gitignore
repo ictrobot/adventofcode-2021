@@ -1,2 +1,4 @@
 *.input
+*.js
 node_modules/
+.idea/
